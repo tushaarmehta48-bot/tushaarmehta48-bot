@@ -78,20 +78,7 @@
   </picture>
 </div>
 
-<!-- ================= 4. FEATURED PROJECTS ================= -->
-## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://github.com/tushaarmehta48-bot/BlogGenerator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tushaarmehta48-bot&repo=BlogGenerator&theme=tokyonight&hide_border=true" alt="BlogGenerator Pin" /></a></td>
-      <td><a href="https://github.com/tushaarmehta48-bot/DevQuiz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tushaarmehta48-bot&repo=DevQuiz&theme=tokyonight&hide_border=true" alt="DevQuiz Pin" /></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/tushaarmehta48-bot/Expense-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tushaarmehta48-bot&repo=Expense-Tracker&theme=tokyonight&hide_border=true" alt="Expense-Tracker Pin" /></a></td>
-      <td><a href="https://github.com/tushaarmehta48-bot/Product_Management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tushaarmehta48-bot&repo=Product_Management&theme=tokyonight&hide_border=true" alt="Product Management Pin" /></a></td>
-    </tr>
-  </table>
   <!-- Tip: Replace repo query parameters with your desired pinned repos -->
 </div>
 
