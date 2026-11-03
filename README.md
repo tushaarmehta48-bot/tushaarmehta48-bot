@@ -63,6 +63,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushaarmehta48-bot&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </picture>
   <br><br>
+  <!-- GitHub Profile Details & Contribution Chart -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushaarmehta48-bot&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushaarmehta48-bot&theme=default">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushaarmehta48-bot&theme=tokyonight" alt="GitHub Profile Details & Contribution Chart" width="95%" />
+  </picture>
+  <br><br>
   <!-- Activity Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tushaarmehta48-bot&theme=tokyo-night&hide_border=true&area=true">
