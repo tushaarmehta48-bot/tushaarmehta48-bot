@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently working on **Full-Stack Web Applications** ([BlogGenerator](https://github.com/tushaarmehta48-bot/BlogGenerator), [DevQuiz](https://github.com/tushaarmehta48-bot/DevQuiz))
 - 🌱 I’m currently learning & mastering **Next.js, NestJS, and Cloud Architecture**
-- 💡 Interests: **Web Development, Generative AI, Cloud Services & Open Source**
-- 📍 Based in: **Indore, India** <!-- Replace with [City, Country - ADD HERE] if desired -->
-- ⚡ Fun fact: **[I turn coffee into clean, scalable code - ADD HERE]**
+- 💡 Interests: Web Development, Generative AI, Cloud Services & Open Source**
+- 📍 Based in: Indore, India <!-- Replace with [City, Country - ADD HERE] if desired -->
+- ⚡ Fun fact:I turn coffee into clean, scalable code 
 
 <!-- ================= 2. TECH STACK (skillicons.dev) ================= -->
 ## 🛠️ Tech Stack
