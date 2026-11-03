@@ -95,16 +95,6 @@
   <!-- Tip: Replace repo query parameters with your desired pinned repos -->
 </div>
 
-<!-- ================= 5. CONTRIBUTION SNAKE ================= -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tushaarmehta48-bot/tushaarmehta48-bot/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tushaarmehta48-bot/tushaarmehta48-bot/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/tushaarmehta48-bot/tushaarmehta48-bot/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-  </picture>
-</div>
 
 <!-- ================= 6. CONNECT WITH ME ================= -->
 ## 🤝 Connect With Me
